@@ -1,0 +1,14 @@
+{
+  "name": "eletron-binary",
+  "version": "1.0.0",
+  "description": "An app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Rudy",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^32.1.2"
+  }
+}
